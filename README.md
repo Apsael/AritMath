@@ -1,5 +1,5 @@
 # AritMath
-This is a simple arithmetic game for kids to practice basic operations (+, -, *, /) by shooting the flying balloon with the correct answer of a random basic operation shown in the middle of the screen.
+This is a simple arithmetic game for kids to practice basic math operations (+, -, *, /) by shooting the flying balloon with the correct answer of a random basic operation shown in the middle of the screen.
 
 pip installs required:
 pip install pygame
